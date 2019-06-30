@@ -1,0 +1,70 @@
+
+Input :
+Player Name:DHONI
+Team names:INDIA
+DOB:04101970
+System Date And Time On right Side:(Calculated Automatically)
+ROLE:BATSMANWICKETKEEPER
+Batting Style:RIGHT
+Bowling Style:RIGHT
+
+
+Batting
+TEST
+Innings: 144
+Dismissed: 128
+Runs: 4876
+Highest Score: 209
+StrikeRate: 123
+50s 33
+100s 6
+200 1
+
+
+ODI
+Innings: 289
+Dismissed: 207
+Runs: 10500
+Highest Score: 183
+SR 210
+50s 71
+100s 10
+200 0
+SR 210
+
+T20
+Innings: 85
+Dismissed: 43
+Runs: 1617
+Highest Score: 83
+50s 2
+100s 0
+200 0
+SR 240
+
+BOWLING
+TEST
+Innings: 144
+Balls:96
+Runs Concceded:67
+Wickets:0
+5W 0
+10W 0 
+
+ODI
+Innings: 289
+Balls: 36
+Runs Concceded:31
+Wickets:1
+5W 0 
+10W 0
+
+T20
+Innings: 85
+Balls:0
+Runs Concceded:0
+Wickets:0
+5W 0
+10W 0
+ 
+ 
